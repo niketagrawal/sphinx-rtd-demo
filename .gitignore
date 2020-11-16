@@ -1,2 +1,5 @@
 #VScode
 .vscode/
+
+#Sphinx build directory
+docs/_build/

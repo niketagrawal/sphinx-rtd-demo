@@ -19,8 +19,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'sphinx rtd demo'
-copyright = '2020, Niket'
-author = 'Niket'
+copyright = '2020, niket'
+author = 'niket'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

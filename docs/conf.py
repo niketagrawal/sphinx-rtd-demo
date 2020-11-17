@@ -19,8 +19,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'sphinx-rtd-demo'
-copyright = '2020, Niket'
-author = 'Niket'
+copyright = '2020, author'
+author = 'author'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
@@ -32,8 +32,8 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-     "sphinx_rtd_theme",
      'jupyter_sphinx',
+     'sphinx_rtd_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

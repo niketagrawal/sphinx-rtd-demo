@@ -7,10 +7,6 @@ Welcome to sphinx-rtd-demo's documentation!
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
    feature-a
-
 
 
